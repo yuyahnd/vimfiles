@@ -6,4 +6,5 @@ set fileformats=unix,dos,mac
 
 set nobackup
 set nowritebackup
+set noswapfile
 
