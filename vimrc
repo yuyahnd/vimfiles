@@ -8,3 +8,5 @@ set nobackup
 set nowritebackup
 set noswapfile
 
+set number
+
