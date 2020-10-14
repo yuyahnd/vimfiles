@@ -9,4 +9,5 @@ set nowritebackup
 set noswapfile
 
 set number
+set numberwidth=4
 
