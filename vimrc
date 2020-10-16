@@ -12,4 +12,5 @@ set number
 set numberwidth=4
 set list
 set listchars=tab:>-,trail:_
+set scrolloff=5
 
