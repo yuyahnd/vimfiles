@@ -29,3 +29,4 @@ set statusline+=[%3p%%]
 set hidden
 
 set showcmd
+set showmode
