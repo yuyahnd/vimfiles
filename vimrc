@@ -15,3 +15,14 @@ set listchars=tab:>-,trail:_
 set scrolloff=5
 
 set laststatus=2
+set statusline=[%{mode()}]
+set statusline+=%F
+set statusline+=%m
+set statusline+=%r
+set statusline+=%h
+set statusline+=%w
+set statusline+=%=
+set statusline+=[%l/%L]
+set statusline+=[%{&fileencoding}]
+set statusline+=[%{&fileformat}]
+set statusline+=[%3p%%]
