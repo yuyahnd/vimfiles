@@ -27,3 +27,5 @@ set statusline+=[%{&fileencoding}]
 set statusline+=[%{&fileformat}]
 set statusline+=[%3p%%]
 set hidden
+
+set showcmd
