@@ -14,3 +14,4 @@ set list
 set listchars=tab:>-,trail:_
 set scrolloff=5
 
+set laststatus=2
